@@ -1,0 +1,2 @@
+1|Luigi|Brother
+2|Wario|Enemy
